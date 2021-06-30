@@ -1,0 +1,423 @@
+﻿Country Code,City Name,Secondary City Name,Low,High
+JP,Tokyo,Chiyoda,1000000,1000014
+JP,Tokyo,Chiyoda,1006001,1029999
+JP,Tokyo,Chuo,1030000,1049999
+JP,Tokyo,Minato,1050000,1089999
+JP,Tokyo,Taito,1100000,1119999
+JP,Tokyo,Bunkyo,1120000,1139999
+JP,Tokyo,Kita,1140000,1159999
+JP,Tokyo,Arakawa,1160000,1169999
+JP,Tokyo,Adachi,1200000,1239999
+JP,Tokyo,Katsushika,1240000,1259999
+JP,Tokyo,Sumida,1300000,1319999
+JP,Tokyo,Edogawa,1320000,1349999
+JP,Tokyo,Koto,1350000,1369999
+JP,Tokyo,Shinagawa,1400000,1429999
+JP,Tokyo,Ohta,1430000,1469999
+JP,Tokyo,Shibuya,1500000,1519999
+JP,Tokyo,Meguro,1520000,1539999
+JP,Tokyo,Setagaya,1540000,1589999
+JP,Tokyo,Shinjuku,1600000,1639999
+JP,Tokyo,Nakano,1640000,1659999
+JP,Tokyo,Suginami,1660000,1689999
+JP,Tokyo,Shinjuku,1690000,1699999
+JP,Tokyo,Toshima,1700000,1719999
+JP,Tokyo,Itabashi,1730000,1759999
+JP,Tokyo,Nerima,1760000,1799999
+JP,Tokyo ,Musashino,1800000,1809999
+JP,Tokyo ,Mitaka,1810000,1819999
+JP,Tokyo ,Choufu,1820000,1829999
+JP,Tokyo ,Fuchu,1830000,1839999
+JP,Tokyo ,Kokubunji-Shi,1858533,1858533
+JP,Tokyo ,Kunitachi,1860000,1869999
+JP,Tokyo ,Tachikawa,1900000,1900099
+JP,Tokyo ,Hino,1918501,1918501
+JP,Tokyo ,Akishima,1960000,1960034
+JP,Tokyo ,Tama,2060000,2060099
+JP,Kawasaki,Kawasaki,2100000,2109999
+JP,Kawasaki,Nakahara,2110000,2119999
+JP,Kawasaki,Saiwai ,2120000,2129999
+JP,Kawasaki,Takatsu,2130000,2139999
+JP,Yokohama,Nishi,2200000,2200099
+JP,Yokohama,Nishi,2206000,2209999
+JP,Yokohama,Kanagawa,2210000,2219999
+JP,Yokohama,Kouhoku ,2220000,2239999
+JP,Yokohama,Tsuduki,2240000,2249999
+JP,Yokohama,Tsurumi,2300000,2309999
+JP,Yokohama,Naka,2310000,2319999
+JP,Yokohama,Isogo,2350000,2359999
+JP,Yokohama,Kanazawa,2360000,2369999
+JP,Kanagawa,Yamato,2420000,2420029
+JP,Kanagawa,Atsugi,2430000,2430099
+JP,Kanagawa,Atsugi,2430120,2430299
+JP,Kanagawa,Ebina,2430400,2430435
+JP,Kanagawa,Atsugi,2430800,2430999
+JP,Kanagawa,Fujisawa,2510000,2510057
+JP,Kanagawa,Fujisawa,2510861,2510877
+JP,Kanagawa,Zama,2520000,2520027
+JP,Kanagawa,Sagamihara Midori-Ku,2520131,2520131
+JP,Kanagawa,Sagamihara Midori-Ku,2520132,2520132
+JP,Kanagawa,Sagamihara Midori-Ku,2520134,2520134
+JP,Kanagawa,Sagamihara Midori-Ku,2520146,2520146
+JP,Kanagawa,Sagamihara Chuo-Ku,2520200,2520254
+JP,Kanagawa,Sagamihara Minami-Ku,2520300,2520344
+JP,Kanagawa,Fujisawa,2520801,2520826
+JP,Kanagawa,Ayase,2521100,2521137
+JP,Kanagawa,Chigasaki ,2530000,2530088
+JP,Kanagawa,"Samukawa machi, Kouza-County",2530100,2530114
+JP,Kanagawa,Hiratsuka,2540000,2540915
+JP,Kanagawa,Hadano,2570000,2570057
+JP,Kanagawa,Isehara,2591100,2591147
+JP,Kanagawa,Hiratsuka,2591201,2591220
+JP,Kanagawa,Hadano,2591301,2591335
+JP,Chiba,Chuo,2600000,2609999
+JP,Chiba,Mihama,2610000,2619999
+JP,Chiba,Hanamigawa,2620000,2629999
+JP,Chiba,Inage,2630000,2639999
+JP,Chiba,Funabashi,2701471,2701471
+JP,Chiba,Ichikawa,2720000,2729999
+JP,Chiba,Funabashi,2730000,2730099
+JP,Chiba,Funabashi,2730800,2730999
+JP,Chiba,Funabashi,2740000,2749999
+JP,Chiba,Narashino ,2750000,2759999
+JP,Chiba,Narita,2820000,2820021
+JP,Chiba,Narita,2860000,2860199
+JP,Chiba,Narita,2860300,2860899
+JP,Chiba,Shibayama,2891600,2891699
+JP,Tochigi,Utsunomiya,3200000,3200999
+JP,Tochigi,Utsunomiya,3210000,3210000
+JP,Tochigi,Utsunomiya,3210100,3210199
+JP,Tochigi,Utsunomiya,3210300,3210399
+JP,Tochigi,Utsunomiya,3210400,3210499
+JP,Tochigi,Utsunomiya,3210900,3210999
+JP,Tochigi,Utsunomiya,3212100,3212199
+JP,Tochigi,Utsunomiya,3213200,3213299
+JP,Tochigi,Mooka ,3214300,3214499
+JP,Tochigi,Mooka ,3214551,3214551
+JP,Tochigi,Utsunomiya,3291100,3291199
+JP,Saitama,Urawa/Ohmiya,3300000,3309999
+JP,Saitama,Nishi/Kita,3310000,3319999
+JP,Saitama,Kawaguchi,3320000,3339999
+JP,Saitama,Hatogaya,3340000,3340019
+JP,Saitama,Kawaguchi,3340051,3349999
+JP,Saitama,Toda,3350000,3350000
+JP,Saitama,Warabi,3350000,3350009
+JP,Saitama,Toda,3350010,3359999
+JP,Saitama,Minami/Midori,3360000,3369999
+JP,Saitama,Minuma,3370000,3379999
+JP,Saitama,Chuo/Sakura,3380000,3389999
+JP,Saitama,Iwatsuki,3390000,3399999
+JP,Saitama,Souka- City ,3400000,3400056
+JP,Saitama,Kuki- City,3400201,"3400218
+"
+JP,Saitama,Yashio-City,3400800,3400835
+JP,Saitama,Misato-City,3410000,3410059
+JP,Saitama,Yoshikawa- City,3420000,3420059
+JP,Saitama,Koshigaya-City ,3430000,3430047
+JP,Saitama,Koshigaya-City ,3430801,3430856
+JP,Saitama,Kasukabe-City,3440000,3440136
+JP,Saitama,Kuki- City,3460000,3460115
+JP,Saitama,Kazo- City,3470000,3470126
+JP,Saitama,Hanyu-City,3480000,3480071
+JP,Saitama,Kuki- City,3491101,3491125
+JP,Saitama,Kazo- City,3491131,3491158
+JP,Saitama,Kawagoe-City,3500001,3500857
+JP,Saitama,Koshigaya,3430822,3430822
+JP,Nagano,Ueda,3861212,3861212
+JP,Shiga,Otsu,5202141,5202141
+JP,Osaka,Suita,5640063,5640063
+JP,Osaka,Settsu,5660034,5660034
+JP,Hyogo,Nishinomiya,6628580,6628580
+JP,Hyogo,Ashiya-shi,6730849,6730849
+JP,Saitama,Sakado-City,3500200,3500278
+JP,Saitama,Kawagoe-City,3501100,3501192
+JP,Saitama,Kawagoe-City,3508555,3508555
+JP,Saitama,Asaka-City,3510000,3510036
+JP,Saitama,Niiza- City,3520000,3520035
+JP,Saitama,Higashi Matsuyama-City,3550011,3550048
+JP,Saitama,Higashi Matsuyama-City,3550052,3550052
+JP,Saitama,Higashi Matsuyama-City,3550062,3550064
+JP,Saitama,Higashi Matsuyama-City,3550071,3550077
+JP,Saitama,Hiki-Gun Ranzan-Town,3550202,3550221
+JP,Saitama,Hiki-Gun Ranzan-Town,3550227,3550227
+JP,Saitama,Hannno-City,3570004,3570004
+JP,Saitama,Hannno-City,3570021,3570022
+JP,Saitama,Hannno-City,3570024,3570025
+JP,Saitama,Hannno-City,3570034,3570035
+JP,Saitama,Iruma-City,3580000,3580055
+JP,Saitama,Tokorozawa-City,3590000,3590047
+JP,Saitama,Tokorozawa-City,3591101,3591167
+JP,Saitama,Gyoda- City ,3610000,3610084
+JP,Saitama,Ageo-City,3620000,3620076
+JP,Gunma,Takasaki,3700000,3700099
+JP,Gunma,Isesaki & Ohta,3700100,3700499
+JP,Gunma,Takasaki,3700800,3700899
+JP,Gunma,Takasaki,3701200,3701299
+JP,Gunma,Maebashi ,3703570,3703579
+JP,Gunma,Maebashi ,3710000,3710099
+JP,Gunma,Maebashi ,3710120,3710139
+JP,Gunma,Maebashi ,3710200,3710299
+JP,Gunma,Maebashi ,3710800,3710899
+JP,Gunma,Isesaki,3720000,3729999
+JP,Gunma,Ohta,3730000,3739999
+JP,Gunma,Tatebayashi,3740000,3740099
+JP,Gunma,Maebashi ,3792100,3792199
+JP,Gunma,Isesaki & Ohta,3792200,3792399
+JP,Nagano,Nagano,3800000,3810199
+JP,Nagano,Nagano,3811200,3812399
+JP,Nagano,Nagano,3813161,3813199
+JP,Nagano,Ueda,3860000,3860499
+JP,Nagano,Ueda,3860503,3860503
+JP,Nagano,Ueda,3860508,3860599
+JP,Nagano,Ueda,3861100,3861599
+JP,Nagano,Nagano,3888000,3889999
+JP,Nagano,"Sakaki, Hanishina County",3890600,3890606
+JP,Nagano,"Sakaki, Hanishina County",3890681,3890681
+JP,Nagano,Matsumoto,3900000,3900999
+JP,Nagano,Matsumoto,3901130,3901139
+JP,Nagano,Matsumoto,3901240,3901299
+JP,Nagano,Matsumoto,3901500,3909999
+JP,Nagano,Chino,3910000,3910019
+JP,Nagano,Chino,3910200,3910299
+JP,Nagano,Suwa,3920000,3929999
+JP,Nagano,"Shimo Suwa,Suwa-County",3930000,3939999
+JP,Nagano,Okaya,3940000,3949999
+JP,Nagano,Iida,3950000,3950046
+JP,Nagano,Iida,3950050,3950159
+JP,Nagano,Iida,3950244,3950245
+JP,Nagano,Iida,3950800,3950999
+JP,Nagano,Ina,3960000,3960199
+JP,Nagano,Ina,3960217,3960217
+JP,Nagano,Ina,3960621,3960621
+JP,Nagano,Matsumoto,399 0000,399 0069
+JP,Nagano,Shiojiri,399 0070,399 0099
+JP,Nagano,"Tatsuno,KamiIna County",3990400,3990422
+JP,Nagano,"Minowa,KamiIna County",3990424,3990428
+JP,Nagano,"Minowa,KamiIna County",3990495,3990495
+JP,Nagano,"Minowa,KamiIna County",3990497,3990497
+JP,Nagano,"Minowa,KamiIna County",3990512,3990601
+JP,Nagano,Shiojiri,399 0650,399 0999
+JP,Nagano,Iida,3992221,3992221
+JP,Nagano,Iida,3992431,3992431
+JP,Nagano,Iida,3992561,3992566
+JP,Nagano,Iida,3992602,3992603
+JP,Nagano,"Takamori,ShimoIna",3993100,3993199
+JP,Nagano,"Matsukawa,ShimoIna",3993300,3993301
+JP,Nagano,"Matsukawa,ShimoIna",3993303,3993304
+JP,Nagano,"Iijima,KamiIna County",3993700,3993702
+JP,Nagano,"Iijima,KamiIna County",3993704,3993705
+JP,Nagano,Komagane,3994100,3994199
+JP,Nagano,Komagane,3994200,3994299
+JP,Nagano,"Miyata,KamiIna County",3994301,3994301
+JP,Nagano,Komagane,3994321,3994321
+JP,Nagano,Ina,3994400,3994509
+JP,Nagano,"Minowa,KamiIna County",3994600,3994605
+JP,Nagano,"Minowa,KamiIna County",3994600,3994605
+JP,Nagano,KamiIna-Gun Minowa-Machi,3994696,3994696
+JP,Nagano,Shiojiri,3996300,3996999
+JP,Nagano,Matsumoto,3997400,3997499
+JP,Nagano,Matsumoto,3998250,3998259
+JP,Shizuoka,Hamamatsu,4300800,4300999
+JP,Shizuoka,Hamamatsu,4307700,4307799
+JP,Shizuoka,Hamamatsu,4310200,4310211
+JP,Shizuoka,Hamamatsu,4310214,4310214
+JP,Shizuoka,Hamamatsu,4311100,4311399
+JP,Shizuoka,Hamamatsu,4312100,4312199
+JP,Shizuoka,Hamamatsu,4313100,4313199
+JP,Shizuoka,Hamamatsu,4320000,4350099
+JP,Nagoya,Kariya,4480000,4489999
+JP,Nagoya,Nakamura,4500000,4509999
+JP,Nagoya,Nishi,4510000,4519999
+JP,Nagoya,Nishi,4520800,4520899
+JP,Nagoya,Nakamura,4530000,4539999
+JP,Nagoya,Nakagawa,4540000,4549999
+JP,Nagoya,Minato,4550000,4559999
+JP,Nagoya,Atsuta,4560000,4569999
+JP,Nagoya,Minami,4570000,4579999
+JP,Nagoya,Midori,4580825,4580825
+JP,Nagoya,Midori,4580831,4580835
+JP,Nagoya,Midori,4580841,4580841
+JP,Nagoya,Midori,4580847,4598006
+JP,Nagoya,Naka,4600000,4609999
+JP,Nagoya,Higashi,4610000,4619999
+JP,Nagoya,Chigusa,4640000,4649999
+JP,Nagoya,Showa,4660000,4669999
+JP,Nagoya,Mizuho,4670000,4679999
+JP,Nagoya,Toyota,4700319,4700543
+JP,Nagoya,Toyota,4710001,4719999
+JP,Nagoya,Toyota,4730000,4739999
+JP,Gifu,Gifu,5000000,5009999
+JP,Gifu,Gifu,5010100,5010199
+JP,Gifu,Gifu,5011100,5011199
+JP,Gifu,Gifu,5012500,5012599
+JP,Gifu,Seki,5012600,5012999
+JP,Gifu,Gifu,5013100,5013199
+JP,Gifu,Seki,5013200,5013299
+JP,Gifu,Seki,5013500,5013699
+JP,Gifu,Seki,5013800,5013999
+JP,Gifu,Hashima  County,5016000,5016019
+JP,Gifu,Kakamigahara,5016020,5016029
+JP,Gifu,Hashima  County,5016030,5016100
+JP,Gifu,Gifu,5016100,5016199
+JP,Gifu,Gifu,5020000,5029999
+JP,Gifu,Oogaki,5030000,5030109
+JP,Gifu,Oogaki,5030141,5030141
+JP,Gifu,Oogaki,5030800,5030999
+JP,Gifu,Oogaki,5031601,5031699
+JP,Gifu,Oogaki,5032200,5032299
+JP,Gifu,Kakamigahara,5040000,5049999
+JP,Gifu,Kakamigahara,5090100,5090199
+JP,Kyoto,Sakyo,5200460,5200469
+JP,Osaka,Kita,5300000,5319999
+JP,Osaka,Yodogawa,5320000,5329999
+JP,Osaka,Higashiyodogawa,5330000,5339999
+JP,Osaka,Miyakojima,5340000,5349999
+JP,Osaka,Asahi,5350000,5359999
+JP,Osaka,Joutou,5360000,5369999
+JP,Osaka,Higashinari,5370000,5379999
+JP,Osaka,Tsurumi,5380000,5389999
+JP,Osaka,Chuo,5390000,5429999
+JP,Osaka,Tennouji,5430000,5439999
+JP,Osaka,Ikuno,5440000,5449999
+JP,Osaka,Abeno,5450000,5459999
+JP,Osaka,Higashisumiyoshi,5460000,5469999
+JP,Osaka,Hirano,5470000,5479999
+JP,Osaka,Nishi,5500000,5509999
+JP,Osaka,Taisho,5510000,5519999
+JP,Osaka,Minato,5520000,5529999
+JP,Osaka,Fukushima,5530000,5539999
+JP,Osaka,Konohana,5540000,5549999
+JP,Osaka,Nishiyodogawa,5550000,5559999
+JP,Osaka,Naniwa,5560000,5569999
+JP,Osaka,Nishinari,5570000,5579999
+JP,Osaka,Sumiyoshi,5580000,5589999
+JP,Osaka,Suminoe,5590000,5599999
+JP,Osaka,Toyonaka,5600000,5619999
+JP,Osaka,Itami,5630800,5630999
+JP,Osaka,Suita,5640000,5659999
+JP,Osaka,Moriguchi,5700000,5709999
+JP,Osaka,Kadoma,5710000,5719999
+JP,Osaka,Daito,5740000,5749999
+JP,Osaka,Higashiosaka,5770000,5799999
+JP,Osaka,Sakai,5870000,5879999
+JP,Osaka,Sakai,5900000,5900199
+JP,Osaka,Sakai,5900800,5900999
+JP,Osaka,Sakai,5910000,5919999
+JP,Osaka,Takaishi,5920000,5920999
+JP,Osaka,Sakai,5928000,5928999
+JP,Osaka,Sakai,5930000,5930000
+JP,Osaka,Sakai,5938000,5939999
+JP,Osaka,Takaishi,5950080,5950099
+JP,Osaka,Sakai,5998000,5999999
+JP,Kyoto,Shimokyo,6000000,6009999
+JP,Kyoto,Minami,6010000,6010000
+JP,Kyoto,Kita,6010100,6010199
+JP,Kyoto,Fushimi,6011300,6011390
+JP,Kyoto,Fushimi,6011400,6011499
+JP,Kyoto,Minami,6018000,6018999
+JP,Kyoto,Kamikyo,6020000,6029999
+JP,Kyoto,Kita,6030000,6038099
+JP,Kyoto,Kita,6038100,6038399
+JP,Kyoto,Kita,6038400,6039999
+JP,Kyoto,Nakagyo,6040000,6049999
+JP,Kyoto,Higashiyama,6050000,6059999
+JP,Kyoto,Sakyo,6060000,6060799
+JP,Kyoto,Sakyo,6060800,6060899
+JP,Kyoto,Sakyo,6060900,6068199
+JP,Kyoto,Sakyo,6068200,6069999
+JP,Kyoto,Yamashina,6070000,6079999
+JP,Kyoto,Saikyo,6100000,6100000
+JP,Kyoto,Saikyo,6101000,6101999
+JP,Kyoto,Fushimi,6120000,6120099
+JP,Kyoto,Fushimi,6128000,6128999
+JP,Kyoto,Fushimi,6130900,6130999
+JP,Kyoto,Ukyo,6150000,6159999
+JP,Kyoto,Saikyo,6158000,6158999
+JP,Kyoto,Saikyo,6160001,6167999
+JP,Kyoto,Ukyo,6168000,6168061
+JP,Kyoto,Ukyo,6168062,6168192
+JP,Kyoto,Ukyo,6168193,6168259
+JP,Kyoto,Ukyo,6168300,6169999
+JP,Kyoto,Mukou,6170000,6170099
+JP,Kyoto,Nagaokakyo,6170800,6170899
+JP,Osaka,Higashiosaka,6300271,6300272
+JP,Kobe,Nishi,6500000,6500000
+JP,Kobe,Chuo,6500001,6509999
+JP,Kobe,Chuo,6510000,6510999
+JP,Osaka,Nishinomiya,6511411,6511499
+JP,Kobe,Nishi,6512000,6512999
+JP,Kobe,Hyougo,6520000,6520070
+JP,Kobe,Hyougo,6520072,6529999
+JP,Kobe,Nagata,6530000,6539999
+JP,Kobe,Suma,6540000,6549999
+JP,Kobe,Tarumi,6550000,6559999
+JP,Kobe,Nada,6570000,6579999
+JP,Kobe,Higashinada,6580000,6589999
+JP,Hyogo,Ashiya,6590000,6599999
+JP,Osaka,Amagasaki,6600000,6619999
+JP,Osaka,Nishinomiya,6620000,6639999
+JP,Osaka,Itami,6640000,6649999
+JP,Osaka,Takarazuka,6650000,6659999
+JP,Osaka,Nishinomiya,6691100,6691149
+JP,Osaka,Takarazuka,6691200,6691249
+JP,Osaka,Nishinomiya,6691251,6691251
+JP,Hyogo,Akashi,6730000,6730399
+JP,Hyogo,Akashi,6730800,6730999
+JP,Hyogo,Akashi,6740000,6749999
+JP,Okayama,Ibara,7158603,7158603
+JP,Hiroshima,Fukuyama,7200000,7200550
+JP,Hiroshima,Fukuyama,7200552,7201399
+JP,Hiroshima,Fukuyama,7202000,7219999
+JP,Hiroshima,Fukuyama,7222600,7222999
+JP,Hiroshima,Fuchu-Shi,7260002,7260002
+JP,Hiroshima,Fukuyama,7290100,7290139
+JP,Hiroshima,Fukuyama,7290250,7290299
+JP,Hiroshima,Fukuyama,7293100,7293199
+JP,Hiroshima,Naka      ,7300000,7310099
+JP,Hiroshima,Asa minami  ,7310100,7310199
+JP,Hiroshima,Asakita,7310200,7310299
+JP,Hiroshima,Asakita,7311000,7311199
+JP,Hiroshima,Asakita,7311271,7311271
+JP,Hiroshima,Asa minami  ,7313000,7313299
+JP,Hiroshima,Asakita,7313300,7313399
+JP,Hiroshima,Aki ,7314231,7314231
+JP,Hiroshima,Saeki        ,7315000,7315999
+JP,Hiroshima,Higashi   ,7320000,7320799
+JP,Hiroshima,Minami     ,7320800,7329999
+JP,Hiroshima,Nishi           ,7330000,7339999
+JP,Hiroshima,Minami       ,7340000,7340099
+JP,Hiroshima,Fuchu Town,7350000,7359999
+JP,Hiroshima,Aki ,7360000,7360000
+JP,Hiroshima,Kaida Town,7360000,7360080
+JP,Hiroshima,Aki ,7360081,7360099
+JP,Hiroshima, Saeki     ,7380500,7380999
+JP,Hiroshima,Aki ,7390300,7390399
+JP,Hiroshima,Asakita   ,7391300,7391799
+JP,Fukuoka,Kokuraminami,8000200,8000299
+JP,Fukuoka,Kokuraminami,8000306,8000306
+JP,Fukuoka,Kokuraminami,8020000,8020000
+JP,Fukuoka,Kokurakita,8020000,8020799
+JP,Fukuoka,Kokuraminami,8020800,8030799
+JP,Fukuoka,Kokurakita,8030800,8039999
+JP,Fukuoka,Yahatanishi,8060000,8069999
+JP,Fukuoka,Yahatanishi,8070070,8070099
+JP,Fukuoka,Yahatanishi,8070800,8071299
+JP,Fukuoka,Chuo,8100000,8100799
+JP,Fukuoka,Hakata,8100800,8109999
+JP,Fukuoka,Higashi,8110200,8110999
+JP,Fukuoka,Minami,8111300,8111999
+JP,Fukuoka,Hakata,8120000,8120049
+JP,Fukuoka,Higashi,8120050,8130007
+JP,Fukuoka,Higashi,8130009,8139999
+JP,Fukuoka,Minami,8150000,8159999
+JP,Fukuoka,Hakata,8160050,8160799
+JP,Fukushima,Fukushima,9600000,9600299
+JP,Fukushima,Fukushima,9600811,9600811
+JP,Fukushima,Fukushima,9601000,9601299
+JP,Fukushima,Fukushima,9601321,9601321
+JP,Fukushima,Fukushima,9602000,9602999
+JP,Fukushima,Fukushima,9608000,9608999
+JP,Fukushima,Kooriyama,9630000,9631999
+JP,Fukushima,Kooriyama,9638000,9638099
+JP,Fukushima,Kooriyama,9638800,9638899
+JP,Fukushima,Fukushima,9691531,9691532
